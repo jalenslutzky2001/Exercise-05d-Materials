@@ -1,5 +1,5 @@
 # Exercise-05d-Materials
-Exercise for MSCH-C220, 5 April 2021
+Exercise for MSCH-C220, 9 April 2021
 
 A demonstration of this exercise is available at [https://youtu.be/ZNGcbVgqopw](https://youtu.be/ZNGcbVgqopw)
 
@@ -138,7 +138,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
 # Exercise-05d-Materials
-Exercise for MSCH-C220, 5 April 2021
+Exercise for MSCH-C220, 9 April 2021
 
 An exploration of PBR Materials in Godot.
 
@@ -155,5 +155,5 @@ None
 None
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
